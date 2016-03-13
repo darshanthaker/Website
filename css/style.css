@@ -190,13 +190,20 @@ TESTIMONIAL SECTION
 ================================*/
 
 .clientsphoto img{
-    width: 80px;
+    width: 90px;
     float: left;
     margin-right: 20px;
     border-radius: 50%;
 }
 
 .clientsphoto img:hover{
+    border-radius: 15%;
+}
+
+.musicphoto img{
+    width: 90px;
+    float: left;
+    margin-right: 20px;
     border-radius: 15%;
 }
 
