@@ -1,7 +1,7 @@
 /* Medium Devices, Desktops */
 @media only screen and (max-width : 1024px) {    
     /*HREO AREA */
-    #hero{max-height: 660px;}    
+    #hero{max-height: 600px;}
     
     /* FEATURED CLIENTS SECTION*/
     #clients img{height: 50px;}

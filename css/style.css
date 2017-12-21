@@ -11,6 +11,8 @@ TYPOGRAPHY
 body {
     font-family: 'Raleway', sans-serif;
     line-height: 1.8em;
+    overflow-y: auto;
+    overflow-x: hidden;
 }
 
 .bigicon {font-size: 3em;}
